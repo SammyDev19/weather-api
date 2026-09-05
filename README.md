@@ -38,7 +38,7 @@ weather-api/
 Clone the repository:
 
 ```bash
-git clone https://github.com/SammyCruz19/weather-api.git
+git clone https://github.com/SammyDev19/weather-api.git
 cd weather-api
 ```
 
